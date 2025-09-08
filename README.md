@@ -1,2 +1,2 @@
-# Auto_Clicker
+# Auto Clicker
 RMB to start/stop.
